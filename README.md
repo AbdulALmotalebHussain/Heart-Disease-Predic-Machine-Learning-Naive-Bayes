@@ -1,13 +1,5 @@
 
-1. **Title and Introduction**
-2. **Libraries Used**
-3. **Data Loading**
-4. **Data Exploration and Cleaning**
-5. **Model Building and Evaluation**
 
-Here's a README file draft for your project:
-
----
 
 # Heart Disease Prediction Using Naive Bayes
 
